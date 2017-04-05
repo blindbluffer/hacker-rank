@@ -1,7 +1,7 @@
 
 |No.| Problem Name | Test (Pass/Fail) | Contributor |  
 |---|--------------|------------------|-------------|  
-| 1 |              |                  |             |  
+| 1 | c++ class templates  pass           |Blind Bluffer|             |  
 | 2 |              |                  |             |  
 | 3 |              |                  |             |  
 | 4 |              |                  |             |  
